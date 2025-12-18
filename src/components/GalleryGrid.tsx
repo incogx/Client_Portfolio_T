@@ -213,7 +213,7 @@ export default function GalleryGrid({ images, autoplayInterval = 3000 }: Gallery
           <button
             aria-label="Previous"
             onClick={prev}
-            className="absolute left-2 top-1/2 -translate-y-1/2 z-40 p-2 rounded-full bg-white/95 hover:bg-white shadow-md"
+            className="hidden sm:inline-flex absolute left-2 top-1/2 -translate-y-1/2 z-40 p-2 rounded-full bg-white/95 hover:bg-white shadow-md"
             style={{ transform: "translateY(-50%)" }}
           >
             <ChevronLeft size={18} />
@@ -222,7 +222,7 @@ export default function GalleryGrid({ images, autoplayInterval = 3000 }: Gallery
           <button
             aria-label="Next"
             onClick={next}
-            className="absolute right-2 top-1/2 -translate-y-1/2 z-40 p-2 rounded-full bg-white/95 hover:bg-white shadow-md"
+            className="hidden sm:inline-flex absolute right-2 top-1/2 -translate-y-1/2 z-40 p-2 rounded-full bg-white/95 hover:bg-white shadow-md"
             style={{ transform: "translateY(-50%)" }}
           >
             <ChevronRight size={18} />
@@ -246,7 +246,7 @@ export default function GalleryGrid({ images, autoplayInterval = 3000 }: Gallery
             onMouseLeave={() => setIsHovered(false)}
             animate={{ x: translateX as any }}
             transition={{ type: "spring", stiffness: 120, damping: 20 }}
-            className="flex items-center gap-4 py-8 px-4 will-change-transform select-none"
+            className="flex items-center gap-3 sm:gap-4 py-6 sm:py-8 px-2 sm:px-4 will-change-transform select-none"
             style={{ cursor: isDragging.current ? "grabbing" : "grab" }}
           >
             {ext.map((img, i) => {
@@ -262,8 +262,8 @@ export default function GalleryGrid({ images, autoplayInterval = 3000 }: Gallery
               const rotate = diff * -3; // subtle tilt
               const zIndex = isCenter ? 50 : isNeighbor ? 40 : 30;
 
-              const widthStyle = isCenter ? "clamp(320px,46vw,760px)" : isNeighbor ? "clamp(240px,30vw,460px)" : "clamp(160px,18vw,320px)";
-              const heightStyle = isCenter ? "clamp(220px,32vw,480px)" : isNeighbor ? "clamp(170px,22vw,340px)" : "clamp(120px,14vw,260px)";
+              const widthStyle = isCenter ? "clamp(240px,68vw,760px)" : isNeighbor ? "clamp(200px,52vw,460px)" : "clamp(160px,42vw,320px)";
+              const heightStyle = isCenter ? "clamp(180px,50vw,480px)" : isNeighbor ? "clamp(150px,40vw,340px)" : "clamp(120px,32vw,260px)";
 
               const src = resolveSrc(img);
 
