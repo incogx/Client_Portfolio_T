@@ -1,0 +1,74 @@
+{
+  "clubInfo": {
+    "name": "Talent FC Chennai",
+    "founded": "2020",
+    "location": "Chennai, Tamil Nadu, India",
+    "founder": "U. Thamimunissa",
+    "logo": "talentfc-logo.png",
+    "tagline": "Building Champions On and Off the Field",
+    "mission": "Talent FC trains young footballers with discipline, teamwork, and elite coaching. We develop confident, disciplined individuals who carry sportsmanship into all aspects of life.",
+    "vision": "To create empowered athletes who excel in football and life, while promoting women's sports and breaking barriers in Indian football.",
+    "contact_email": "contact@talentfc.in",
+    "youtube_channel": "UCxxxxxxxxxxxxxx",
+    "instagram": "https://www.instagram.com/talentfc_chennai"
+  },
+  "programs": [
+    {
+      "name": "Youth Development Program",
+      "age_group": "Ages 8-12",
+      "schedule": "3 sessions per week",
+      "description": "Foundation program focusing on basic skills, teamwork, and love for the game. Perfect for beginners and young enthusiasts.",
+      "days": "Monday, Wednesday, Friday",
+      "timing": "4:00 PM - 5:30 PM"
+    },
+    {
+      "name": "Advanced Training Program",
+      "age_group": "Ages 13-17",
+      "schedule": "4 sessions per week",
+      "description": "Intensive training for competitive players, including tactical training, physical conditioning, and mental preparation for tournaments.",
+      "days": "Tuesday, Thursday, Saturday, Sunday",
+      "timing": "5:30 PM - 7:00 PM"
+    },
+    {
+      "name": "Elite Squad Program",
+      "age_group": "Ages 16+",
+      "schedule": "5 sessions per week",
+      "description": "Premier program for serious athletes preparing for state and national level competitions. Includes specialised coaching and tournament participation.",
+      "days": "Monday-Friday",
+      "timing": "6:00 AM - 8:00 AM"
+    },
+    {
+      "name": "Women's Open Program",
+      "age_group": "Ages 18+",
+      "schedule": "2-3 sessions per week",
+      "description": "Training program for adult women looking to stay fit, learn football, or return to the sport after a break.",
+      "days": "Wednesday, Saturday",
+      "timing": "7:00 AM - 8:30 AM"
+    }
+  ],
+  "achievements": [
+    "Regional Youth Championship Winners 2021",
+    "Multiple players selected for district and state teams",
+    "Featured in local and regional press for community impact",
+    "Expanded training programs across multiple age groups"
+  ],
+  "gallery": [
+    "Screenshot 2025-12-12 141319.png",
+    "hero-coach.png",
+    "press-photo.png",
+    "player-early.jpg",
+    "CopyofImageTaggingnoframesEditorialTeamMaster10-1682539103792.png"
+  ],
+  "testimonials": [
+    {
+      "name": "Asha R.",
+      "relation": "Parent",
+      "quote": "Talent FC transformed my daughter's confidence — the coaches combine discipline with care and skill development."
+    },
+    {
+      "name": "Meera K.",
+      "relation": "Player",
+      "quote": "Training here helped me make the state trials. The coaching is tough but supportive, and the team feels like family."
+    }
+  ]
+}

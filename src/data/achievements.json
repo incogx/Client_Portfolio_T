@@ -1,0 +1,101 @@
+[
+  {
+    "year": "1995",
+    "title": "Early Football Achievements",
+    "role": "Player",
+    "result": "District Level Champion",
+    "organizer": "Chennai District Football Association",
+    "location": "Chennai, Tamil Nadu",
+    "description": "Began competitive play at district level and quickly became known for technical skill and game awareness. Early career highlights that showed passion for the sport and leadership on the field.",
+    "media": [ "player-early.jpg" ],
+    "external_link": ""
+  },
+  {
+    "year": "2002",
+    "title": "State Team Selection",
+    "role": "Player",
+    "result": "Selected for Tamil Nadu State Team",
+    "organizer": "Tamil Nadu Football Association",
+    "location": "Tamil Nadu, India",
+    "description": "Selected to represent Tamil Nadu in interstate championships, demonstrating consistent performance and tactical understanding.",
+    "media": [ "player-early.jpg", "press-photo.png" ],
+    "external_link": ""
+  },
+  {
+    "year": "2005",
+    "title": "University Captain",
+    "role": "Player & Captain",
+    "result": "University Championship Captain",
+    "organizer": "Sathyabama University Athletics",
+    "location": "Chennai, India",
+    "description": "Led the university team, improving squad cohesion and match strategy while mentoring younger players.",
+    "media": [ "player-early.jpg" ],
+    "external_link": ""
+  },
+  {
+    "year": "2012",
+    "title": "Transition to Coaching",
+    "role": "Coach & PT Teacher",
+    "result": "Started Formal Coaching Career",
+    "organizer": "Government School PE Program",
+    "location": "Chennai, India",
+    "description": "Began coaching career as a PT Teacher, focusing on fundamentals, discipline, and youth development. Built early coaching frameworks that emphasize character and teamwork.",
+    "media": [ "hero-coach.png" ],
+    "external_link": ""
+  },
+  {
+    "year": "2018",
+    "title": "Major Press Recognition",
+    "role": "Coach",
+    "result": "Featured in Local & National Press",
+    "organizer": "Various media outlets",
+    "location": "Chennai, India",
+    "description": "Recognized for innovative coaching and impactful community programs that expanded access to girls' football.",
+    "media": [ "press-photo.png" ],
+    "external_link": ""
+  },
+  {
+    "year": "2020",
+    "title": "Founded Talent FC",
+    "role": "Founder & Head Coach",
+    "result": "Established Talent FC Chennai",
+    "organizer": "Talent FC",
+    "location": "Chennai, India",
+    "description": "Founded Talent FC to provide structured, high-quality training programs for young athletes, emphasizing technical skill, fitness, and character.",
+    "media": [ "talentfc-logo.png", "Screenshot 2025-12-12 141319.png" ],
+    "external_link": ""
+  },
+  {
+    "year": "2021",
+    "title": "Youth Tournament Success",
+    "role": "Coach",
+    "result": "Regional Youth Championship Winners",
+    "organizer": "Chennai Youth Football League",
+    "location": "Chennai, India",
+    "description": "Led Talent FC youth squads to championship wins in regional competitions, showcasing effective coaching and player development.",
+    "media": [ "Screenshot 2025-12-12 141319.png" ],
+    "external_link": ""
+  },
+  {
+    "year": "2023",
+    "title": "Elite Coaching Recognition",
+    "role": "Coach",
+    "result": "Advanced Coaching Certification",
+    "organizer": "National Coaching Accreditation",
+    "location": "India",
+    "description": "Awarded advanced coaching certification for excellence in youth coaching practices and player development.",
+    "media": [ "press-photo.png" ],
+    "external_link": ""
+  },
+  {
+    "year": "2024",
+    "title": "Ongoing Excellence",
+    "role": "Coach & Founder",
+    "result": "Continued Growth of Talent FC",
+    "organizer": "Talent FC",
+    "location": "Chennai, India",
+    "description": "Talent FC expanded programs across more age groups and increased community outreach—continuing to prepare players for district and state competitions.",
+    "media": [ "Screenshot 2025-12-12 141319.png", "hero-coach.png" ],
+    "external_link": ""
+  }
+]
