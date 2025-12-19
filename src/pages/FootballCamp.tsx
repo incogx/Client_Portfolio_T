@@ -276,29 +276,20 @@ export default function FootballCamp() {
 
         {/* Contact Section */}
         <div className="mt-12 border-t pt-8" id="contact">
-          <h2 className="text-center text-xl font-bold text-slate-800 mb-6">Contact & Registration</h2>
-          <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm max-w-2xl mx-auto">
-            <div className="grid gap-6">
-              <div className="space-y-1">
-                <label className="text-sm font-semibold text-slate-600 uppercase">Contact Person</label>
-                <div className="bg-slate-50 p-3 rounded border border-slate-200 text-slate-400 italic">[Name Placeholder]</div>
-              </div>
-              <div className="grid md:grid-cols-2 gap-6">
-                <div className="space-y-1">
-                  <label className="text-sm font-semibold text-slate-600 uppercase">Phone</label>
-                  <div className="bg-slate-50 p-3 rounded border border-slate-200 text-slate-400 italic">[Phone Placeholder]</div>
-                </div>
-                <div className="space-y-1">
-                  <label className="text-sm font-semibold text-slate-600 uppercase">Email</label>
-                  <div className="bg-slate-50 p-3 rounded border border-slate-200 text-slate-400 italic">[Email Placeholder]</div>
-                </div>
-              </div>
-              <a
-                className="w-full mt-2 bg-slate-800 text-white font-bold py-3 rounded-lg hover:bg-slate-900 transition-colors text-center"
-                href="#"
+          <h2 className="text-center text-xl font-bold text-slate-800 mb-6">Register for the Camp</h2>
+          <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm max-w-4xl mx-auto">
+            <div className="w-full h-[900px] overflow-hidden rounded-lg">
+              <iframe 
+                src="https://docs.google.com/forms/d/e/1FAIpQLSfb_W6nHZB9dphEmV4s55duUmcD3b1EGUnwUAh-omUwJvTXGA/viewform?embedded=true" 
+                width="100%" 
+                height="100%" 
+                frameBorder={0}
+                marginHeight={0} 
+                marginWidth={0}
+                className="border-0"
               >
-                Download Application Form
-              </a>
+                Loading…
+              </iframe>
             </div>
           </div>
         </div>
